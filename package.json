@@ -84,7 +84,8 @@
   },
   "resolutions": {
     "webpack": "4.41.5",
-    "webpack-dev-server": "3.10.2"
+    "webpack-dev-server": "3.10.2",
+    "babel-eslint": "10.0.3"
   },
   "jest": {
     "collectCoverageFrom": [

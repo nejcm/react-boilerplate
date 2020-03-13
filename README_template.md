@@ -45,11 +45,11 @@
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
-- [Features](#⭐️-features)
-- [Getting started](#📦-getting-started)
+- [Features](#%EF%B8%8F-features)
+- [Getting started](#-getting-started)
 - [Installation](#installation)
 - [Configuration](#configuration)
-- [Deployment](#🚀-deployment)
+- [Deployment](#-deployment)
 - [Examples](#examples)
   - [Basic Example](#basic-example)
   - [Advanced Example](#Advanced-example)
@@ -58,9 +58,9 @@
 - [Style guide](#style-guide)
 - [Docs](#docs)
 - [Issues](#issues)
-  - [🐛 Bugs](#🐛-bugs)
-  - [💡 Feature Requests](#💡-feature-requests)
-  - [❓ Questions](#❓-questions)
+  - [🐛 Bugs](#-bugs)
+  - [💡 Feature Requests](#-feature-requests)
+  - [❓ Questions](#-questions)
 - [Authors](#authors)
 - [Contributors](#contributors)
 - [Support](#support)

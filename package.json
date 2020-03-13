@@ -34,6 +34,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "storybook": "start-storybook -p 9001 -c .storybook",
+    "format": "prettier ./src/**/*.js --write",
     "clean": "rimraf build coverage",
     "lint": "eslint ./src",
     "lint:fix": "eslint ./src --fix",
@@ -43,10 +44,9 @@
     "docs:dev": "docz dev",
     "docs:build": "docz build",
     "postdocs:build": "cpy \"**/*\" ../../.docz/dist --cwd=\"other/public\" --parents",
-    "validate": "npm run lint && npm run test:build",
+    "validate": "npm run format && npm run lint && npm run test:build",
     "setup": "npm run clean && npm run validate",
-    "publish": "npm publish",
-    "release": "semantic-release"
+    "semantic-release": "semantic-release pre && npm publish && semantic-release post"
   },
   "husky": {
     "hooks": {
@@ -73,15 +73,17 @@
     "@storybook/addons": "^5.3.14",
     "@storybook/react": "^5.3.14",
     "cpy-cli": "^3.1.0",
-    "codecov": "^3.6.5",
     "docz": "^2.2.0",
     "docz-theme-default": "^1.2.0",
     "eslint-config-kentcdodds": "^14.8.0",
     "eslint-plugin-react-hooks": "^2.5.0",
-    "husky": "4.2.3",
     "jest-coverage-badges": "^1.1.2",
     "jest-resolve": "25.1.0",
-    "jest-watch-typeahead": "0.4.2",
+    "jest-watch-typeahead": "0.4.2"
+  },
+  "devDependencies": {
+    "codecov": "^3.6.5",
+    "husky": "4.2.3",
     "rimraf": "^3.0.2",
     "semantic-release": "17.0.4"
   },

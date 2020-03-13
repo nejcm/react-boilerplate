@@ -60,6 +60,9 @@
     "react": "^16.13.0",
     "react-dom": "^16.13.0",
     "react-scripts": "3.4.0",
+    "babel-eslint": "10.0.3",
+    "webpack": "4.41.5",
+    "webpack-dev-server": "3.10.2",
     "@storybook/addon-actions": "^5.3.14",
     "storybook-addon-jsx": "^7.1.14",
     "@storybook/addon-knobs": "^5.3.14",
@@ -81,11 +84,6 @@
     "jest-watch-typeahead": "0.4.2",
     "rimraf": "^3.0.2",
     "semantic-release": "17.0.4"
-  },
-  "resolutions": {
-    "webpack": "4.41.5",
-    "webpack-dev-server": "3.10.2",
-    "babel-eslint": "10.0.3"
   },
   "jest": {
     "collectCoverageFrom": [

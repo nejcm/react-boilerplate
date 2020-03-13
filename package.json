@@ -46,7 +46,7 @@
     "postdocs:build": "cpy \"**/*\" ../../.docz/dist --cwd=\"other/public\" --parents",
     "validate": "npm run format && npm run lint && npm run test:build",
     "setup": "npm run clean && npm run validate",
-    "semantic-release": "semantic-release pre && npm publish && semantic-release post"
+    "semantic-release": "semantic-release"
   },
   "husky": {
     "hooks": {

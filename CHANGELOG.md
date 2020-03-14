@@ -1,3 +1,10 @@
+## [1.1.4](https://github.com/nejcm/react-boilerplate/compare/v1.1.3...v1.1.4) (2020-03-14)
+
+
+### Bug Fixes
+
+* fixed test build ([71c72ae](https://github.com/nejcm/react-boilerplate/commit/71c72ae65b96d5670ccfb752cdd92a4243f6d531))
+
 ## [1.1.3](https://github.com/nejcm/react-boilerplate/compare/v1.1.2...v1.1.3) (2020-03-14)
 
 

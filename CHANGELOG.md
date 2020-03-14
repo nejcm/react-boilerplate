@@ -1,3 +1,10 @@
+## [1.1.3](https://github.com/nejcm/react-boilerplate/compare/v1.1.2...v1.1.3) (2020-03-14)
+
+
+### Bug Fixes
+
+* **release:** fixed repo access ([e261311](https://github.com/nejcm/react-boilerplate/commit/e261311ccd77149ebfa083ee16985b858afac429))
+
 ## [1.1.2](https://github.com/nejcm/react-boilerplate/compare/v1.1.1...v1.1.2) (2020-03-14)
 
 

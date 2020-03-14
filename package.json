@@ -94,12 +94,17 @@
   "jest": {
     "collectCoverageFrom": [
       "src/**/*.{js,jsx,ts,tsx}",
-      "!src/**/*.d.ts", 
+      "!src/**/*.d.ts",
       "!src/**/*.story.{js,jsx,ts,tsx}",
       "!src/serviceWorker.js",
       "!src/index.{js,jsx,ts,tsx}"
     ],
-    "coverageReporters": ["json-summary", "json", "lcov", "text"],
+    "coverageReporters": [
+      "json-summary",
+      "json",
+      "lcov",
+      "text"
+    ],
     "coverageThreshold": {
       "global": {
         "branches": 90,

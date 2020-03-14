@@ -1,6 +1,5 @@
 {
   "name": "react-boilerplate",
-  "private": true,
   "version": "0.0.0-semantically-released",
   "author": "Nejc Mursic <nmursi2@gmail.com> (https://github.com/nejcm)",
   "description": "Starter kit for your react projects",
@@ -61,7 +60,7 @@
     "babel-eslint": "10.0.3",
     "webpack": "4.41.5",
     "webpack-dev-server": "3.10.2",
-    "@semantic-release/changelog": "^3.0.0",
+    "@semantic-release/changelog": "^5.0.0",
     "@semantic-release/git": "^9.0.0",
     "@semantic-release/github": "^7.0.4",
     "@semantic-release/commit-analyzer": "^8.0.1",

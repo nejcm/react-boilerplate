@@ -4,8 +4,6 @@
   "version": "0.0.0-semantically-released",
   "author": "Nejc Mursic <nmursi2@gmail.com> (https://github.com/nejcm)",
   "description": "Starter kit for your react projects",
-  "main": "build/index.js",
-  "module": "build/index.js",
   "license": "MIT",
   "repository": {
     "type": "git",

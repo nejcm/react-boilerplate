@@ -16,7 +16,7 @@ branches:
 jobs:
   include:
     - stage: testing
-      if: branch in (master, develop)
+      #if: branch in (master, develop)
       node_js: lts/*
       env:
         - TEST=test

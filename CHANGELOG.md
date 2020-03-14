@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/nejcm/react-boilerplate/compare/v1.1.0...v1.1.1) (2020-03-14)
+
+
+### Bug Fixes
+
+* **release:** removed private from package.json ([b7795f2](https://github.com/nejcm/react-boilerplate/commit/b7795f27c1dc3eb99fbdb731e761ce6784395582))
+
 # [1.1.0](https://github.com/nejcm/react-boilerplate/compare/v1.0.0...v1.1.0) (2020-03-14)
 
 

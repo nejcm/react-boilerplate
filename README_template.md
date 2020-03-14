@@ -185,7 +185,18 @@ instead of filing an issue on GitHub.
 
 <table>
   <tr>
-    <td align="center"><a href="[FILL:url]"><img src="[FILL:avatar-url]" width="100px" alt=""/><br /><sub><b>[FILL:name]</b></sub></a><br /><a href="https://github.com/[FILL:username]/[FILL:repo]/commits?author=[FILL:username]" title="Code">💻</a> <a href="https://github.com/[FILL:username]/[FILL:repo]/commits?author=[FILL:username]" title="Documentation">📖</a> <a href="#infra" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/[FILL:username]/[FILL:repo]/commits?author=[FILL:username]" title="Tests">⚠️</a></td>
+    <td align="center">
+      <a href="[FILL:url]">
+        <img src="[FILL:avatar-url]" width="100px" alt=""/>
+        <br />
+        <sub><b>[FILL:name]</b></sub>
+      </a>
+      <br />
+      <a href="https://github.com/[FILL:username]/[FILL:repo]/commits?author=[FILL:username]" title="Code">💻</a> 
+      <a href="https://github.com/[FILL:username]/[FILL:repo]/commits?author=[FILL:username]" title="Documentation">📖</a> 
+      <a href="#infra" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> 
+      <a href="https://github.com/[FILL:username]/[FILL:repo]/commits?author=[FILL:username]" title="Tests">⚠️</a>
+    </td>
   </tr>
 </table>
 

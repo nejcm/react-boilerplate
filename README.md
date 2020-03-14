@@ -174,7 +174,18 @@ Special thanks to the open source community.
 
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/nejcm"><img src="https://avatars3.githubusercontent.com/u/1865210?v=3" width="100px" alt="Nejc"/><br /><sub><b>Nejc Muršič</b></sub></a><br /><a href="https://github.com/nejcm/react-boilerplate/commits?author=nejcm" title="Code">💻</a> <a href="https://github.com/nejcm/react-boilerplate/commits?author=nejcm" title="Documentation">📖</a> <a href="#infra" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/nejcm/react-boilerplate/commits?author=nejcm" title="Tests">⚠️</a></td>
+    <td align="center">
+      <a href="https://github.com/nejcm">
+        <img src="https://avatars3.githubusercontent.com/u/1865210?v=3" width="100px" alt="Nejc"/>
+        <br />
+        <sub><b>Nejc Muršič</b></sub>
+      </a>
+      <br />
+      <a href="https://github.com/nejcm/react-boilerplate/commits?author=nejcm" title="Code">💻</a> 
+      <a href="https://github.com/nejcm/react-boilerplate/commits?author=nejcm" title="Documentation">📖</a> 
+      <a href="#infra" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> 
+      <a href="https://github.com/nejcm/react-boilerplate/commits?author=nejcm" title="Tests">⚠️</a>
+    </td>
   </tr>
 </table>
 

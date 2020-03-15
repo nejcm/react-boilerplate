@@ -1,3 +1,10 @@
+## [1.1.6](https://github.com/nejcm/react-boilerplate/compare/v1.1.5...v1.1.6) (2020-03-15)
+
+
+### Bug Fixes
+
+* fixed travis badge url ([d0d8945](https://github.com/nejcm/react-boilerplate/commit/d0d8945d826ab9ade09d9a8f45db3cb4fe362979))
+
 ## [1.1.5](https://github.com/nejcm/react-boilerplate/compare/v1.1.4...v1.1.5) (2020-03-15)
 
 

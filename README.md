@@ -215,7 +215,7 @@ Reach out to us at one of the following places:
 [all-contributors-badge]: https://img.shields.io/badge/all_contributors-1-orange.svg
 [all-contributors]: https://github.com/all-contributors/all-contributors
 [bugs]: https://github.com/nejcm/react-boilerplate/issues?q=is%3Aissue+is%3Aopen+label%3Abug+sort%3Acreated-desc
-[build-badge]: https://img.shields.io/travis/nejcm/react-boilerplate.svg
+[build-badge]: https://img.shields.io/travis/com/nejcm/react-boilerplate.svg
 [build]: https://travis-ci.com/nejcm/react-boilerplate
 [coc-badge]: https://img.shields.io/badge/code%20of-conduct-ff69b4.svg
 [coc]: https://github.com/nejcm/react-boilerplate/blob/master/CODE_OF_CONDUCT.md

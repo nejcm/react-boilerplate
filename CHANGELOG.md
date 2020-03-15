@@ -1,3 +1,10 @@
+## [1.1.5](https://github.com/nejcm/react-boilerplate/compare/v1.1.4...v1.1.5) (2020-03-15)
+
+
+### Bug Fixes
+
+* fixed travis url ([de58b52](https://github.com/nejcm/react-boilerplate/commit/de58b5229cdd763a88c2ab8eb0fe91d962328000))
+
 ## [1.1.4](https://github.com/nejcm/react-boilerplate/compare/v1.1.3...v1.1.4) (2020-03-14)
 
 

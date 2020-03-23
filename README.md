@@ -41,15 +41,15 @@
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
-- [Features](#%EF%B8%8F-features)
-- [Getting started](#-getting-started)
-- [Installation](#installation)
-- [Customization](#-customization)
-- [Configuration](#configuration)
-- [Deployment](#-deployment)
-- [Versioning](#versioning)
-- [Tests](#tests)
-- [Style guide](#style-guide)
+- [⭐️ Features](#-features)
+- [📦 Getting started](#-getting-started)
+- [💿 Installation](#-installation)
+- [💎 Customization](#-customization)
+- [⚙️ Configuration](#-configuration)
+- [🚀 Deployment](#-deployment)
+- [🎓 Versioning](#-versioning)
+- [🧪 Tests](#-tests)
+- [💄 Style guide](#-style-guide)
 - [Issues](#issues)
   - [🐛 Bugs](#-bugs)
   - [💡 Feature Requests](#-feature-requests)
@@ -90,7 +90,7 @@
 - Node.js >=8
 
 
-## Installation
+## 💿 Installation
 
 This module is distributed via [npm][npm] which is bundled with [node][node].
 
@@ -109,29 +109,31 @@ npm install
 4. Remove any files you do not need or edit them accordingly
 
 
-## Configuration
+## ⚙️ Configuration
 
 Check _package.json_ for configuration options.
 
 
 ## 🚀 Deployment
 
-1. `npm run build`
+```shell
+npm run build
+```
 
 
-## Versioning
+## 🎓 Versioning
 
 We use [SemVer](http://semver.org/) for versioning. For the versions available see the [link to tags on this repository](/tags).
 
 
-## Tests
+## 🧪 Tests
 
 ```shell
 npm run tests
 ```
 
 
-## Style guide
+## 💄 Style guide
 
 The code styles followed are documented and set with linter rules inside _.eslintrc_ file.
 

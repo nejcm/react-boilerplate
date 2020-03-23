@@ -30,6 +30,8 @@ jobs:
       # if: branch = master AND commit_message =~ /^[0-9]*\.[0-9]*\.[0-9]*$/
       if: branch = master
       node_js: lts/*
+      env:
+        - PRODUCTION=production
       script:
         - npm run build
       after_success:

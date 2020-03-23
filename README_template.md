@@ -45,18 +45,18 @@
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
-- [Features](#%EF%B8%8F-features)
-- [Getting started](#-getting-started)
-- [Installation](#installation)
-- [Configuration](#configuration)
-- [Deployment](#-deployment)
-- [Examples](#examples)
+- [⭐️ Features](#-features)
+- [📦 Getting started](#-getting-started)
+- [💿 Installation](#-installation)
+- [⚙️ Configuration](#-configuration)
+- [🚀 Deployment](#-deployment)
+- [🕹️ Examples](#-examples)
   - [Basic Example](#basic-example)
   - [Advanced Example](#Advanced-example)
-- [Versioning](#versioning)
-- [Tests](#tests)
-- [Style guide](#style-guide)
-- [Docs](#docs)
+- [🎓 Versioning](#-versioning)
+- [🧪 Tests](#-tests)
+- [📎 Docs](#-docs)
+- [💄 Style guide](#-style-guide)
 - [Issues](#issues)
   - [🐛 Bugs](#-bugs)
   - [💡 Feature Requests](#-feature-requests)
@@ -70,10 +70,9 @@
 
 ## ⭐️ Features
 
-- Feature #1
-- Feature #2
+- [FILL:feature-name]
 
-## Getting Started
+## 📦 Getting Started
 
 Provide some getting started instructions.
 
@@ -86,7 +85,7 @@ Provide some getting started instructions.
 - Node.js >=8
 - ...
 
-## Installation
+## 💿 Installation
 
 Provide installation instructions.
 
@@ -94,16 +93,16 @@ Provide installation instructions.
 
 ```
 
-## Configuration
+## ⚙️ Configuration
 
 Here you should write what are all of the configurations a user can enter when
 using the project.
 
-## Deployment
+## 🚀 Deployment
 
 Provide instructions on how to deploy the project.
 
-## Examples
+## 🕹️ Examples
 
 ```js
 ```
@@ -118,12 +117,12 @@ Provide instructions on how to deploy the project.
 ```js
 ```
 
-## Versioning
+## 🎓 Versioning
 
 We use [SemVer](http://semver.org/) for versioning. For the versions available
 see the [link to tags on this repository](/tags).
 
-## Tests
+## 🧪 Tests
 
 Provide instructions how to run the tests.
 
@@ -131,14 +130,9 @@ Provide instructions how to run the tests.
 
 ```
 
-## Style guide
+## 📎 Docs
 
-The code styles followed are documented and set with linter rules inside
-_.eslintrc_ file.
-
-## Docs
-
-> [**Docs**]([FILL:docs-url])
+> [**Docs**]([docs-link])
 
 Provide a brief intro about what a developer must do in order to start
 developing the project further.
@@ -146,6 +140,11 @@ developing the project further.
 ```shell
 
 ```
+
+## 💄 Style guide
+
+The code styles followed are documented and set with linter rules inside
+_.eslintrc_ file.
 
 ## Issues
 
@@ -232,6 +231,7 @@ Reach out to us at one of the following places:
 [codacy-badge]: [FILL]
 [coverage-badge]: [FILL]
 [coverage]: [FILL]
+[docs-link]: [FILL]
 [downloads-badge]: [FILL]
 [email]: [FILL]
 [emojis]: [FILL]

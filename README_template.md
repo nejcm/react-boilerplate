@@ -1,6 +1,5 @@
-<div>
+# [FILL:project-title]
 
-<h1>[FILL:project-title]</h1>
 <blockquote>[FILL:project-description]</blockquote>
 <br />
 
@@ -13,10 +12,8 @@
     src="https://d1j8pt39hxlh3d.cloudfront.net/emoji/emojione/5.5/png/unicode/128/1f4e6.png?192038471"
   />
 </a>
-
 <br />
 <br />
-</div>
 
 <!-- prettier-ignore-start -->
 [![NPM][npm-badge]][npm-link] 

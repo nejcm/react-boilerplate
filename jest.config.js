@@ -17,11 +17,11 @@ module.exports = {
     'src/**/*.{js,jsx,ts,tsx}',
     '!src/**/*.d.ts', 
     '!src/**/*.story.{js,jsx,ts,tsx}',
-    '!src/serviceWorker.js'
-    
+    '!src/serviceWorker.js',
+    '!src/index.{js,jsx,ts,tsx}'
   ],
   coverageDirectory: './coverage',
-  coverageReporters: ['json', 'lcov', 'text-summary'],
+  coverageReporters: ['json-summary', 'json', 'lcov', 'text'],
   coveragePathIgnorePatterns: [...ignores],
   coverageThreshold: {
     global: {

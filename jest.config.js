@@ -21,7 +21,7 @@ module.exports = {
     '!src/index.{js,jsx,ts,tsx}'
   ],
   coverageDirectory: './coverage',
-  coverageReporters: ['json-summary', 'json', 'lcov', 'text'],
+  coverageReporters: ['json', 'lcov', 'text-summary'],
   coveragePathIgnorePatterns: [...ignores],
   coverageThreshold: {
     global: {

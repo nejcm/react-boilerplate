@@ -59,7 +59,7 @@
     "react-scripts": "3.4.1",
     "babel-eslint": "10.1.0",
     "babel-loader": "8.1.0",
-    "webpack": "4.42.0",
+    "webpack": "4.42.1",
     "webpack-dev-server": "3.10.3",
     "@semantic-release/changelog": "^5.0.1",
     "@semantic-release/commit-analyzer": "^8.0.1",
@@ -78,7 +78,7 @@
     "@storybook/react": "^5.3.18",
     "codecov": "^3.6.5",
     "cpy-cli": "^3.1.0",
-    "docz": "^2.3.0",
+    "docz": "^2.3.1",
     "docz-theme-default": "^1.2.0",
     "eslint-config-kentcdodds": "^14.8.0",
     "eslint-plugin-react-hooks": "^3.0.0",
@@ -86,12 +86,35 @@
     "jest-coverage-badges": "^1.1.2",
     "jest-resolve": "^25.2.6",
     "jest-watch-typeahead": "^0.5.0",
-    "lint-staged": "^10.1.1",
+    "lint-staged": "^10.1.2",
     "rimraf": "^3.0.2",
     "semantic-release": "^17.0.4",
     "storybook-addon-jsx": "^7.1.15"
   },
   "devDependencies": {},
+  "jest": {
+    "collectCoverageFrom": [
+      "src/**/*.{js,jsx,ts,tsx}",
+      "!src/**/*.d.ts",
+      "!src/**/*.story.{js,jsx,ts,tsx}",
+      "!src/serviceWorker.js",
+      "!src/index.{js,jsx,ts,tsx}"
+    ],
+    "coverageReporters": [
+      "json-summary",
+      "json",
+      "lcov",
+      "text"
+    ],
+    "coverageThreshold": {
+      "global": {
+        "branches": 90,
+        "functions": 90,
+        "lines": 90,
+        "statements": 90
+      }
+    }
+  },
   "browserslist": {
     "production": [
       ">0.2%",

@@ -1,3 +1,12 @@
+## [1.1.7](https://github.com/nejcm/react-boilerplate/compare/v1.1.6...v1.1.7) (2020-04-07)
+
+
+### Bug Fixes
+
+* Added missing files ([0b05fe1](https://github.com/nejcm/react-boilerplate/commit/0b05fe1dccbef5e7ef9f2d81b65288858cd3d86a))
+* fixed dep. webpack issue ([e493c04](https://github.com/nejcm/react-boilerplate/commit/e493c041454dbeab99e346a8fef19b13a35ace5f))
+* fixed jest coverage bug ([3f57f6f](https://github.com/nejcm/react-boilerplate/commit/3f57f6f3046cccae56b6da89e5f4f7d692e26a8d))
+
 ## [1.1.6](https://github.com/nejcm/react-boilerplate/compare/v1.1.5...v1.1.6) (2020-03-15)
 
 

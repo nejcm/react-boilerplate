@@ -243,7 +243,7 @@ Reach out to us at one of the following places:
 [requests]: https://github.com/nejcm/react-boilerplate/issues?q=is%3Aissue+sort%3Areactions-%2B1-desc+label%3Aenhancement+is%3Aopen
 [semantic-release-badge]: https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg
 [semantic-release]: https://github.com/semantic-release/semantic-release
-[storybook-badge]: https://nejcmursic.netlify.com/storybook.svg
+[storybook-badge]: https://nejcmursic.netlify.com/assets/storybook.svg
 [storybook]: https://storybook.js.org/
 [style-guide-badge]: https://img.shields.io/badge/code_style-standard-brightgreen.svg
 [style-guide]: https://standardjs.com

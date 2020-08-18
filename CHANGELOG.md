@@ -1,3 +1,10 @@
+## [1.1.8](https://github.com/nejcm/react-boilerplate/compare/v1.1.7...v1.1.8) (2020-08-18)
+
+
+### Bug Fixes
+
+* fixed bug in format script ([2ea40f5](https://github.com/nejcm/react-boilerplate/commit/2ea40f5437ef2455f65e483070edc4410f262e4f))
+
 ## [1.1.7](https://github.com/nejcm/react-boilerplate/compare/v1.1.6...v1.1.7) (2020-04-07)
 
 

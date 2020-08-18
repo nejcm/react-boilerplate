@@ -1,5 +1,5 @@
 # React boilerplate
-<blockquote>Starter kit for your react projects</blockquote>
+<blockquote>Starter kit for my react projects</blockquote>
 <br />
 
 <a href="https://www.joypixels.com/profiles/emoji/package">
@@ -23,8 +23,6 @@
 [![Code Coverage][coverage-badge]][coverage]
 [![version][version-badge]][package] [![downloads][downloads-badge]][npmtrends]
 [![MIT License][license-badge]][license]
-
-[![Storybook][storybook-badge]]([storybook])
 
 [![All Contributors][all-contributors-badge]](#contributors)
 [![PRs Welcome][prs-badge]][prs] [![Code of Conduct][coc-badge]][coc]
@@ -69,7 +67,6 @@
 - SASS/SCSS support
 - Jest unit testing
 - Test coverage and badges
-- Storybook
 - Travis
 - Docs
 - File templates for TODO, README, CONTRIBUTING, ISSUE_TEMPLATE, etc...
@@ -243,8 +240,6 @@ Reach out to us at one of the following places:
 [requests]: https://github.com/nejcm/react-boilerplate/issues?q=is%3Aissue+sort%3Areactions-%2B1-desc+label%3Aenhancement+is%3Aopen
 [semantic-release-badge]: https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg
 [semantic-release]: https://github.com/semantic-release/semantic-release
-[storybook-badge]: https://nejcmursic.netlify.com/assets/storybook.svg
-[storybook]: https://storybook.js.org/
 [style-guide-badge]: https://img.shields.io/badge/code_style-standard-brightgreen.svg
 [style-guide]: https://standardjs.com
 [version-badge]: https://img.shields.io/npm/v/@nejcm/react-boilerplate.svg

@@ -15,25 +15,14 @@
   },
   "rules": {
     "react/jsx-boolean-value": 0,
-    "react/prop-types": "off",
     "react/no-adjacent-inline-elements": "off",
-    "no-multiple-empty-lines": [
-      "error",
-      {
-        "max": 3
-      }
-    ],
-    "max-lines-per-function": ["error", 500],
-    "complexity": ["error", 15],
-    "valid-jsdoc": ["warn", {"requireReturn": false}],
+    "valid-jsdoc": ["warn"],
     "no-bitwise": "off",
-    "consistent-return": "off",
     "no-negated-condition": "off",
     "arrow-parens": "error",
-    "generator-star-spacing": "off",
     "no-console": "warn",
     "no-eval": "error",
-    "no-debugger": "warn",
+    "no-debugger": "error",
     "no-unused-vars": "error"
   }
 }

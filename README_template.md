@@ -26,7 +26,6 @@
 [![MIT License][license-badge]][license]
 
 [![Codacy Badge]([codacy-badge])]([codacy]) 
-[![Storybook][storybook-badge]]([storybook])
 
 [![All Contributors][all-contributors-badge]](#contributors)
 [![PRs Welcome][prs-badge]][prs] [![Code of Conduct][coc-badge]][coc]
@@ -254,8 +253,6 @@ Reach out to us at one of the following places:
 [semantic-release]: [FILL]
 [spectrum]: [FILL]
 [stackoverflow]: [FILL]
-[storybook-badge]: [FILL]
-[storybook]: [FILL]
 [style-guide-badge]: [FILL]
 [style-guide]: [FILL]
 [version-badge]: [FILL]
